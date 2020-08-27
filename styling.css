@@ -8,6 +8,10 @@ body    {
     font-size: xx-large;
 }
 
+a:hover {
+  color: blueviolet;
+}
+
 .wrapper {
     width:100%;
     }
