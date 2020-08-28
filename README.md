@@ -1,7 +1,7 @@
-Your Project's Name
-One or two paragraphs providing an overview of your project.
+Yummy!
 
-Essentially, this part is your sales pitch.
+This is an online recipe store where peopl can find recipes and upload their own.
+
 
 UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
