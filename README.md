@@ -1,6 +1,6 @@
 Yummy!
 
-This is an online recipe store where peopl can find recipes and upload their own.
+This is an online recipe store where peopl can find recipes and upload their own.  Each page also points people to Lakeland cooking utensils as a sponsor
 
 
 UX
